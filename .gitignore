@@ -179,7 +179,7 @@ cython_debug/
 
 logs/
 ckpts/
-ouput_figs/
+output_figs/
 
 .pt/
 .pth/
